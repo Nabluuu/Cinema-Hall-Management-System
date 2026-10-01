@@ -85,7 +85,7 @@ Working on this project helped us gain practical experience with Java and unders
 
 Developed collaboratively by:
 
-- **[Your Name]**
-- **[Friend's Name]**
+- Nabil Riasat
+- Mikat Momin
 
 This project represents one of our first steps into Java programming and software development.
